@@ -1,0 +1,1 @@
+# plugins-wordpress-plugin-for-simple-google-adsense-insertion
